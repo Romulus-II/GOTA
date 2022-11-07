@@ -1,0 +1,11 @@
+Completion::
+A goal that is either entirely completed or not.
+
+Multi-Step::
+A goal that can track multiple steps that need to be completed before being marked as completed.
+
+Time-Reliant::
+A goal that requires a certain amount of time on something to be marked as completed; comes with a functional timer.
+
+Progressional::
+A goal that has a progess bar that helps track the progress to completion.
