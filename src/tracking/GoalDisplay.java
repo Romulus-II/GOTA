@@ -33,9 +33,8 @@ public class GoalDisplay extends VBox {
             this.getChildren().add(content);
         }
         //---Remove this in final product---------------------------------------
-        this.setBorder(Border.stroke(Color.BLACK));
+        //this.setBorder(Border.stroke(Color.BLACK));
         //----------------------------------------------------------------------
-        this.setPadding(new Insets(10,10,10,10));
-        this.setStyle("border: 5px solid black");
+        this.setPadding(new Insets(5,5,5,5));
     }
 }
